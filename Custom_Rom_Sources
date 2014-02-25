@@ -1,0 +1,19 @@
+Compiling a list of the various custom roms and where to get them from:
+
+Cyanogenmod (https://github.com/CyanogenMod/android)
+repo init -u git://github.com/CyanogenMod/android.git -b <branch>
+
+Pac Rom (https://github.com/PAC-man/pacman)
+repo init -u git://github.com/PAC-man/pacman.git -b <branch>
+
+Carbon Rom (https://github.com/CarbonDev/android)
+repo init -u https://github.com/CarbonDev/android.git -b <branch>
+
+Paranoid (https://github.com/ParanoidAndroid/manifest)
+repo init -u git@github.com:ParanoidAndroid/manifest.git -b <branch>
+
+RootBox (https://github.com/Root-Box/platform_manifest)
+repo init -u https://github.com/Root-Box/platform_manifest.git -b <branch>
+
+MoKee (https://github.com/MoKee/android)
+repo init -u https://github.com/MoKee/android.git -b <branch>
