@@ -1,5 +1,7 @@
 ## Android Rules Usage:
 (51-Android.rules is a udev scripts which allows for adb to detect your device under linux)
+
+
 Download 51-Android.rules then open the terminal (make sure to replace username with your actual username) and cd into the directory you have the file
     `cd /path/to/file`
     
