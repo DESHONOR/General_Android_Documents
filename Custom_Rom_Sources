@@ -6,6 +6,12 @@ repo init -u git://github.com/CyanogenMod/android.git -b <branch>
 AOKP (https://github.com/AOKP/platform_manifest)
 repo init -u https://github.com/AOKP/platform_manifest.git -b <branch>
 
+IOKP (https://github.com/IOKP/platform_manifest)
+repo init -u https://github.com/IOKP/platform_manifest.git -b <branch>
+
+IOAP (https://github.com/IOAP/android)
+repo init -u https://github.com/IOAP/android.git -b <branch>
+
 Pac Rom (https://github.com/PAC-man/pacman)
 repo init -u git://github.com/PAC-man/pacman.git -b <branch>
 
