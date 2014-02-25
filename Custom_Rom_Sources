@@ -1,10 +1,12 @@
-Compiling a list of the various custom roms and where to get them from, for more info on each one open the provided URL's
+Compiling a list of the various custom roms and where to get them from, for more info on each one and current list of <branches> visit the provided URL's
 
 Cyanogenmod (https://github.com/CyanogenMod/android)
 repo init -u git://github.com/CyanogenMod/android.git -b <branch>
 
-AOKP (https://github.com/AOKP/platform_manifest)
-repo init -u https://github.com/AOKP/platform_manifest.git -b <branch>
+AOKP 
+homepage http://aokp.co/ 
+git https://github.com/AOKP/platform_manifest
+`repo init -u https://github.com/AOKP/platform_manifest.git -b <branch>`
 
 IOKP (https://github.com/IOKP/platform_manifest)
 repo init -u https://github.com/IOKP/platform_manifest.git -b <branch>
@@ -44,3 +46,27 @@ repo init -u git://github.com/omnirom/android.git -b <branch>
 
 Chameleon OS (https://github.com/ChameleonOS/android)
 repo init -u git://github.com/ChameleonOS/android.git -b <branch>
+
+AOSB Pro Bam (https://github.com/AOSB/android)
+repo init -u https://github.com/AOSB/android.git
+**extra instructions required, visit url**
+
+CyanFox (https://github.com/CyanFox/android)
+repo init -u git://github.com/CyanFox/android.git -b <branch>
+
+Evervolv (https://github.com/Evervolv/android)
+repo init -u git://github.com/Evervolv/android.git -b <branch>
+
+Baked Rom (https://github.com/TeamBAKED/manifest)
+repo init -u https://github.com/TeamBAKED/manifest.git -b <branch>
+
+Eclipse (https://github.com/nitroglycerine33/android)
+repo init -u https://github.com/nitroglycerine33/android.git -b <branch>
+
+MiniCM (https://github.com/MiniCM/android)
+repo init -u git://github.com/MiniCM/android.git -b <branch>
+
+XenonHD (https://github.com/TeamHorizon/platform_manifest)
+repo init -u https://github.com/TeamHorizon/platform_manifest.git -b <branch>
+
+
