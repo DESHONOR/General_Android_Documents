@@ -1,7 +1,10 @@
-Compiling a list of the various custom roms and where to get them from:
+Compiling a list of the various custom roms and where to get them from, for more info on each one open the provided URL's
 
 Cyanogenmod (https://github.com/CyanogenMod/android)
 repo init -u git://github.com/CyanogenMod/android.git -b <branch>
+
+AOKP (https://github.com/AOKP/platform_manifest)
+repo init -u https://github.com/AOKP/platform_manifest.git -b <branch>
 
 Pac Rom (https://github.com/PAC-man/pacman)
 repo init -u git://github.com/PAC-man/pacman.git -b <branch>
