@@ -32,3 +32,9 @@ repo init -u git://github.com/LiquidSmooth/android.git -b <branch>
 
 SlimRom (https://github.com/SlimRoms/platform_manifest)
 repo init -u git://github.com/SlimRoms/platform_manifest.git -b <branch>
+
+OMNI Rom (https://github.com/omnirom/android)
+repo init -u git://github.com/omnirom/android.git -b <branch>
+
+Chameleon OS (https://github.com/ChameleonOS/android)
+repo init -u git://github.com/ChameleonOS/android.git -b <branch>
