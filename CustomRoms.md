@@ -141,7 +141,7 @@ git = https://github.com/SuperNexus/android_manifest
 `repo init -u https://github.com/SuperNexus/android_manifest.git -b kitkat`  
 
 28. TheCollective  
-homepage =  none?  
+homepage =  http://theandroidcollective.org/web/index.html    
 git = https://github.com/TheCollective/platform_manifest  
 `repo init -u https://github.com/TheCollective/platform_manifest.git -b <branch>`  
 
