@@ -125,8 +125,8 @@ homepage = http://revolt-rom.com/
 git = https://github.com/ReVolt-ROM/platform_manifest  
 `repo init -u git://github.com/ReVolt-ROM/platform_manifest.git -b <branch>`  
 
-25. RootBox  
-homepage = http://rootbox.ca/  
+25. RootBox **regular homepage seems to be down**  
+homepage = https://plus.google.com/communities/115833651542488654391  
 git = https://github.com/Root-Box/platform_manifest  
 `repo init -u https://github.com/Root-Box/platform_manifest.git -b <branch>`  
 
