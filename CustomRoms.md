@@ -17,8 +17,8 @@ git = https://github.com/TeamBAKED/manifest
 `repo init -u https://github.com/TeamBAKED/manifest.git -b <branch>`  
 
 Blue Lightning  **Currently only cm11 available**
-homepage =  None?
-git = https://github.com/Cl3Kener/BlueLightning
+homepage =  None?  
+git = https://github.com/Cl3Kener/BlueLightning  
 `repo init -u git://github.com/Cl3Kener/BlueLightning.git -b cm-11.0`  
 
 Carbon Rom  
