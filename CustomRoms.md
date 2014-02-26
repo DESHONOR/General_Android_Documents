@@ -56,7 +56,7 @@ homepage = http://loki.rombitch.com/Devs/Gummy/
 git = https://github.com/TEAM-Gummy/platform_manifest  
 `repo init -u git://github.com/TEAM-Gummy/platform_manifest.git -b <branch>`  
 
-HellKat
+HellKat  
 homepage =  none?  
 git = https://github.com/Hellybean/android  
 `repo init -u https://github.com/Hellybean/android.git -b cm-11.0`  
