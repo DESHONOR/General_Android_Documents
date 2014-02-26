@@ -16,6 +16,11 @@ homepage = http://bakedrom.com/
 git = https://github.com/TeamBAKED/manifest  
 `repo init -u https://github.com/TeamBAKED/manifest.git -b <branch>`  
 
+Blue Lightning  **Currently only cm11 available**
+homepage =  None?
+git = https://github.com/Cl3Kener/BlueLightning
+`repo init -u git://github.com/Cl3Kener/BlueLightning.git -b cm-11.0`  
+
 Carbon Rom  
 homepage = http://carbon-rom.com/  
 git = https://github.com/CarbonDev/android  
@@ -50,6 +55,11 @@ Gummy Rom
 homepage = http://loki.rombitch.com/Devs/Gummy/  
 git = https://github.com/TEAM-Gummy/platform_manifest  
 `repo init -u git://github.com/TEAM-Gummy/platform_manifest.git -b <branch>`  
+
+HellKat
+homepage =  none?  
+git = https://github.com/Hellybean/android  
+`repo init -u https://github.com/Hellybean/android.git -b cm-11.0`  
 
 IOAP   
 homepage = http://www.infamousdevelopment.com/  
@@ -106,6 +116,11 @@ homepage = http://www.slimroms.net/
 git = https://github.com/SlimRoms/platform_manifest  
 `repo init -u git://github.com/SlimRoms/platform_manifest.git -b <branch>`  
 
+Vanir  
+homepage = https://plus.google.com/communities/111378032131473754160  
+git = https://github.com/VanirAOSP/platform_manifest  
+`repo init -u git://github.com/VanirAOSP/platform_manifest.git -b <branch>`  
+
 XenonHD  
 homepage = http://xenonhd.com/  
 git = https://github.com/TeamHorizon/platform_manifest  
@@ -114,6 +129,3 @@ git = https://github.com/TeamHorizon/platform_manifest
 #### Roms I don't currently have source links for:
 Avatar  
 homepage =   http://avatarrom.com/  
-
-Vanir  
-homepage = https://plus.google.com/communities/111378032131473754160
