@@ -22,7 +22,7 @@ export PATH=$PATH:~/android/sdk/platform-tools
 export PATH=$PATH:~/android/sdk/tools  
 ```  
 
-Be sure to change ~/android with your actual path (the folder you extracted the sdk to) and save and exit, after that we need to update the file by issueing the command `bash ~/.bashrc`  
+Be sure to change ~/android with your actual path (the folder you extracted the sdk to) and save and exit, after that we need to update the file by issueing the command `source ~/.bashrc`  
 
 #### Libs and files we need to build
 Open your terminal again and copy and paste this to get the required libs and files:  
