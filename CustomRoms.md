@@ -110,3 +110,10 @@ XenonHD
 homepage = http://xenonhd.com/  
 git = https://github.com/TeamHorizon/platform_manifest  
 `repo init -u https://github.com/TeamHorizon/platform_manifest.git -b <branch>`  
+
+#### Roms I don't currently have source links for:
+Avatar  
+homepage =   http://avatarrom.com/  
+
+Vanir  
+homepage = https://plus.google.com/communities/111378032131473754160
