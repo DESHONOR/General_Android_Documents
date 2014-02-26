@@ -135,7 +135,7 @@ homepage = http://www.slimroms.net/
 git = https://github.com/SlimRoms/platform_manifest  
 `repo init -u git://github.com/SlimRoms/platform_manifest.git -b <branch>`  
 
-27. SuperNexus **Currently onnly kitkat available**  
+27. SuperNexus **Currently only kitkat available**  
 homepage =  none?  
 git = https://github.com/SuperNexus/android_manifest  
 `repo init -u https://github.com/SuperNexus/android_manifest.git -b kitkat`  
