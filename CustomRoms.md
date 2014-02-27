@@ -130,6 +130,11 @@ homepage = http://forum.xda-developers.com/paranoid-android
 git = https://github.com/ParanoidAndroid/manifest  
 `repo init -u git@github.com:ParanoidAndroid/manifest.git -b <branch>`  
 
+Resurrection Remix  
+homepage =  http://www.resurrectionremix.com  
+git =  https://github.com/ResurrectionRemix/platform_manifest.git  
+`repo init -u https://github.com/ResurrectionRemix/platform_manifest.git -b <branch>`  
+
 ReVolt Rom  
 homepage = http://revolt-rom.com/  
 git = https://github.com/ReVolt-ROM/platform_manifest  
