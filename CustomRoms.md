@@ -163,3 +163,7 @@ AOSB Pro Bam
 homepage = http://probam.net/  
 Code being moved to a **PRIVATE** bitbucket. Some people I swear SMDH
 
+Replicant  
+homepage = http://www.replicant.us/  
+dev information = http://redmine.replicant.us/projects/replicant/wiki/DeveloperGuide  
+
