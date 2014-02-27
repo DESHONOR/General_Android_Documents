@@ -4,6 +4,7 @@ Various Gerrit Url's = http://pastebin.com/CVbm2FJM
 
 
 1. AOSB Pro Bam **extra instructions required, visit url**  
+**author doesn't seem to like people cherry picking, compiling full source seems to be ok though**  
 homepage = http://probam.net/  
 git = https://github.com/AOSB/android  
 `repo init -u https://github.com/AOSB/android.git`  
