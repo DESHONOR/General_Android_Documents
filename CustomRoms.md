@@ -43,6 +43,11 @@ homepage = http://www.cyanfox-rom.com/
 git = https://github.com/CyanFox/android  
 `repo init -u git://github.com/CyanFox/android.git -b <branch>`  
 
+CyanMobile **Looks like only gingerbread is supported**  
+homepage = http://cyanmobile.github.com/  
+git =  https://github.com/CyanMobile/android_cyanmobile  
+`repo init -u git://github.com/CyanMobile/android_cyanmobile.git -b gingerbread`  
+
 DirtyUnicorns  
 homepage = http://dirtyunicorns.com/dusite/  
 git 4.3 =   https://github.com/DU-Final/manifest  
