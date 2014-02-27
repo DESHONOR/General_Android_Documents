@@ -85,6 +85,11 @@ homepage = http://www.infamousdevelopment.com/
 git = https://github.com/IOKP/platform_manifest  
 `repo init -u https://github.com/IOKP/platform_manifest.git -b <branch>`  
 
+LewaOS  
+homepage = http://www.lewaos.com/  
+git = https://github.com/LeWaCode/patchrom  
+`repo init -u git://github.com/LeWaCode/patchrom.git -b <branch>`  
+
 LiquidSmooth  
 homepage = http://liquidsmooth.net/  
 git = https://github.com/LiquidSmooth/android  
